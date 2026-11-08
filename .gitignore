@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/
+data/filtered/
+data/train_15/
+data/test/
+models/*.keras
